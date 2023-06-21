@@ -4,7 +4,13 @@
 
 ![Snake animation](https://github.com/NatanMoura77/NatanMoura77/blob/output/github-contribution-grid-snake.svg)
 
-  ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Atributes <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<div>
+<a href="https://github.com/NatanMoura77">
+<img width="43%" height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanMoura77&layout=compact&langs_count=7&theme=kacho_ga"/>
+<img width="49%" height="210em" src="https://github-readme-stats.vercel.app/api?username=NatanMoura77&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
+</div>
+
+ ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Atributes <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 🔥 Software Engineer 🎒 Bacharel in CS ⏱️ Games - Anime - Code 🐕 Hunter
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
@@ -15,10 +21,4 @@
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "natan.moura@vortigo.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/natan-prado-de-moura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-<div>
-<a href="https://github.com/NatanMoura77">
-<img width="43%" height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanMoura77&layout=compact&langs_count=7&theme=dracula"/>
-<img width="49%" height="210em" src="https://github-readme-stats.vercel.app/api?username=NatanMoura77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
