@@ -18,8 +18,8 @@
 
 <div>
 <a href="https://github.com/NatanMoura77">
-<img width="50%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanMoura77&layout=compact&langs_count=7&theme=kacho_ga"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=NatanMoura77&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
+<img width="42%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanMoura77&layout=compact&langs_count=7&theme=kacho_ga"/>
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=NatanMoura77&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
 </div>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Technologies <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
