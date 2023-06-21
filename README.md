@@ -2,7 +2,7 @@
 <div align="center">
 <img max-width="800" src="https://github.com/NatanMoura77/NatanMoura77/blob/404264912e2ab42b82029dbe2f2500fd9b779e47/assets/demon-slayer-wallpaper.jpg"/>
 
-![Snake animation](https://github.com/seu-usuário-aqui/NatanMoura77/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NatanMoura77/NatanMoura77/blob/output/github-contribution-grid-snake.svg)
 
   ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Atributes <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 🔥 Software Engineer 🎒 Bacharel in CS ⏱️ Games - Anime - Code 🐕 Hunter
